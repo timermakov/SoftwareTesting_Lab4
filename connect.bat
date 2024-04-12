@@ -1,0 +1,1 @@
+ssh -L 8080:stload.se.ifmo.ru:8080 s311733@se.ifmo.ru -p 2222
